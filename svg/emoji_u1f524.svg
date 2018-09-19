@@ -43,65 +43,55 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     inkscape:zoom="1.84375"
-     inkscape:cx="108.12726"
-     inkscape:cy="103.59909"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="46.855583"
+     inkscape:cy="80.736883"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
-  <rect
-     id="rect2"
-     y="37.470001"
-     x="37.470001"
-     width="53.02"
-     style="fill:#ed6c30"
-     height="53.02" />
-  <rect
-     id="rect4"
-     y="0.17"
-     x="0.17"
-     width="53.029999"
-     style="fill:#ed6c30"
-     height="53.02" />
-  <rect
-     id="rect6"
-     y="74.809998"
-     x="74.800003"
-     width="53.029999"
-     style="fill:#ed6c30"
-     height="53.02" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#3e99ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 7.4000001,0 C 26.266667,0 44.55806,0.958789 63.424727,0.958789 82.291393,0.958789 101.73333,0 120.6,0 c 4.0996,0 7.4,3.3004 7.4,7.4 0,18.866667 -0.57527,30.446538 -0.57527,49.313205 0,18.866667 0.57527,45.020125 0.57527,63.886795 0,4.0996 -3.3004,7.4 -7.4,7.4 -18.86667,0 -35.240482,-1.91758 -54.107149,-1.91758 C 47.626184,126.08242 26.266667,128 7.4000001,128 3.3004,128 0,124.6996 0,120.6 0,101.73333 0.958789,81.907878 0.958789,63.041211 0.958789,44.174545 0,26.266667 0,7.4 0,3.3004 3.3004,0 7.4000001,0 Z"
+     id="rect840"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssssssss" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#2089ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 125.14258,1.1777345 C 87.201877,46.083944 32.05307,77.426046 0.871094,124.19532 c 1.355343,1.6066 3.382123,2.62695 5.6582026,2.62695 18.8666674,0 40.2251304,-1.91797 59.0917974,-1.91797 18.866666,0 35.240756,1.91797 54.107426,1.91797 4.0996,0 7.40039,-3.30079 7.40039,-7.40039 0,-18.86667 -0.57617,-45.020056 -0.57617,-63.886724 0,-18.866666 0.57617,-30.445832 0.57617,-49.3124995 0,-1.955407 -0.75603,-3.724575 -1.98633,-5.044922 z"
+     id="path855" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.44121933px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.91649389;"
-     x="9.590457"
-     y="45.385559"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.44121933px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.91649389"
+     x="12.536287"
+     y="82.700562"
      id="text837"><tspan
        sodipodi:role="line"
        id="tspan835"
-       x="9.590457"
-       y="45.385559"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';stroke-width:2.91649389;fill:#ffffff;">A</tspan></text>
+       x="12.536287"
+       y="82.700562"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';fill:#ffffff;stroke-width:2.91649389">a</tspan></text>
   <text
      id="text841"
      y="82.809105"
-     x="46.708401"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.44655609px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.97035122;"
+     x="49.654232"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.44655609px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.97035122"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';stroke-width:2.97035122;fill:#ffffff;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';fill:#ffffff;stroke-width:2.97035122"
        y="82.809105"
-       x="46.708401"
+       x="49.654232"
        id="tspan839"
-       sodipodi:role="line">B</tspan></text>
+       sodipodi:role="line">b</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.00439072px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.16094947;"
-     x="82.581108"
-     y="121.31199"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.00439072px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.16094947"
+     x="85.526939"
+     y="84.120499"
      id="text845"><tspan
        sodipodi:role="line"
        id="tspan843"
-       x="82.581108"
-       y="121.31199"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';stroke-width:3.16094947;fill:#ffffff;">C</tspan></text>
+       x="85.526939"
+       y="84.120499"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';fill:#ffffff;stroke-width:3.16094947">c</tspan></text>
 </svg>

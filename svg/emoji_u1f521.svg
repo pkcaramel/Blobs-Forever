@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,45 +47,26 @@
      showguides="false"
      inkscape:snap-page="true"
      inkscape:zoom="2.6074563"
-     inkscape:cx="-43.302783"
-     inkscape:cy="80.456481"
+     inkscape:cx="40.687119"
+     inkscape:cy="102.70038"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg20" />
-  <rect
-     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-     id="rect911"
-     width="64"
-     height="63.939999"
-     x="0"
-     y="64.059998" />
-  <rect
-     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-     id="rect913"
-     width="63.810551"
-     height="63.930546"
-     x="64"
-     y="0.13" />
   <path
-     style="fill:#ffffff"
-     d="M 64.009766,64.060547 H 127.81055 V 0.13085938 H 64 V 64.060547"
-     id="path907" />
-  <path
-     d="M 0.19,0.13 V 64.06 H 64 V 0.13 Z"
-     style="fill:#ed6c30"
-     id="path4"
+     style="opacity:1;vector-effect:none;fill:#3e99ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 7.4,6.9999999e-7 C 26.266666,6.9999999e-7 44.558059,0.9587896 63.424726,0.9587896 82.291392,0.9587896 101.73333,6.9999999e-7 120.6,6.9999999e-7 124.6996,6.9999999e-7 128,3.3004007 128,7.4000008 128,26.266667 127.42473,37.846538 127.42473,56.713205 127.42473,75.579872 128,101.73333 128,120.6 c 0,4.0996 -3.3004,7.4 -7.4,7.4 -18.86667,0 -35.240483,-1.91758 -54.10715,-1.91758 C 47.626183,126.08242 26.266666,128 7.4,128 3.300399,128 -9.9999999e-7,124.6996 -9.9999999e-7,120.6 -9.9999999e-7,101.73333 0.958788,81.907878 0.958788,63.041211 0.958788,44.174545 -1e-6,26.266667 -1e-6,7.4000008 -1e-6,3.3004007 3.300399,6.9999999e-7 7.4,6.9999999e-7 Z"
+     id="rect840"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     sodipodi:nodetypes="sssssssssssss" />
   <path
-     d="m 64.01,64.06 v 63.81 h 63.81 V 64.06 Z"
-     style="fill:#ed6c30"
-     id="path8"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     style="fill:#2089ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 125.14258,1.1777351 C 87.201876,46.083944 32.053069,77.426047 0.871093,124.19531 c 1.355344,1.6066 3.382123,2.62695 5.658203,2.62695 18.866667,0 40.22513,-1.91797 59.091797,-1.91797 18.866666,0 35.240757,1.91797 54.107427,1.91797 4.0996,0 7.40039,-3.30079 7.40039,-7.40039 0,-18.86666 -0.57617,-45.020046 -0.57617,-63.886713 0,-18.866667 0.57617,-30.445833 0.57617,-49.3125001 0,-1.9554065 -0.75603,-3.7245753 -1.98633,-5.0449218 z"
+     id="path855" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#2f2f2f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
      x="96.110321"
      y="54.549301"
      id="text835"><tspan
@@ -93,14 +74,14 @@
        id="tspan833"
        x="96.110321"
        y="54.549301"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#2f2f2f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">b</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;">b</tspan></text>
   <text
      id="text893"
      y="118.51851"
      x="32.86232"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#2f2f2f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#2f2f2f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.139328px;line-height:1.25;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
        y="118.51851"
        x="32.86232"
        id="tspan891"
