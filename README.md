@@ -1,13 +1,12 @@
-
+#### THIS IS A WORK IN PROGRESS NONE OF THE CHANGES I HAVE PLANED ARE INITIATED
 #### DISCLAIMER:
 I am **neither** affiliated nor in _any_ relationship to the original creators or to Emojipedia or anything or anyone else.
 
 ![Noto](images/noto.png)
 # Noto Emoji with Blobs enabled
 
-This repository is intended to continue the development of the Blob emojis which have been abandoned by the original creators in 2017.
-
-My goal is to upgrade the Blob emojis with a fresh style which is consistent to other emoji vendors.
+This is a fork of blobmoji 
+The goal of this project is to create an emoji set that is consistant to the blobmoji style while building upon it with non standard emojis you can use in other projects 
 
 Another thing is that this emoji set includes some emojis and ZWJ-sequences which are not part of the current emoji standard (although some or most of them are about to be included in the upcoming Unicode-standard), which means it might be one of the biggest emoji sets currently available!
 
@@ -82,9 +81,3 @@ _First of all, this licensing is used for this project too to avoid any confusio
  > Please read [CONTRIBUTING](CONTRIBUTING.md) if you are thinking of contributing to this project.
 
 _Note: On this fork you can simply send pull requests or issues. I'll try to respond as soon as possible._
-
-## News
-* _2018-02-03: Blobmoji Fork created_
-* 2017-09-13: Emoji redesign released.
-* 2015-12-09: Unicode 7 and 8 emoji image data (.png format) added.
-* 2015-09-29: All Noto fonts now licensed under the SIL Open Font License.
