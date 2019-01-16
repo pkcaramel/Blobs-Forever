@@ -3,7 +3,7 @@
 I am **neither** affiliated nor in _any_ relationship to the original creators or to Emojipedia or anything or anyone else.
 
 ![Noto](images/noto.png)
-# Noto Emoji with Blobs enabled
+# Blobs Forever
 
 This is a fork of blobmoji 
 The goal of this project is to create an emoji set that is consistant to the blobmoji style while building upon it with non standard emojis you can use in other projects 
