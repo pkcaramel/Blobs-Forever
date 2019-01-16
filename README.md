@@ -76,8 +76,4 @@ otherwise exempt from copyright ([more info](third_party/region-flags/LICENSE)).
 
 _First of all, this licensing is used for this project too to avoid any confusion. This might be extended in the future for all files entirely made by myself._
 
-## Contributing
-
- > Please read [CONTRIBUTING](CONTRIBUTING.md) if you are thinking of contributing to this project.
-
 _Note: On this fork you can simply send pull requests or issues. I'll try to respond as soon as possible._
