@@ -8,8 +8,6 @@ I am **neither** affiliated nor in _any_ relationship to the original creators o
 This is a fork of blobmoji 
 The goal of this project is to create an emoji set that is consistant to the blobmoji style while building upon it with non standard emojis you can use in other projects 
 
-Another thing is that this emoji set includes some emojis and ZWJ-sequences which are not part of the current emoji standard (although some or most of them are about to be included in the upcoming Unicode-standard), which means it might be one of the biggest emoji sets currently available!
-
 Please note that I did not create most of the emojis. You can find an overview of the changes I made in the file CHANGES.txt
 
 Most information on this fork will be included in the [Wiki](https://github.com/C1710/blobmoji/wiki). There you'll find more detailed build instructions and other helpful information on how to use this font and much more.  
