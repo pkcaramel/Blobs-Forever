@@ -132,7 +132,12 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f8dd6;
+-webkit-animation: splashAnimate 30s ease infinite;
+-moz-animation: splashAnimate 30s ease infinite;
+animation: splashAnimate 30s ease infinite;
+
+    background: linear-gradient(270deg, #ad5389, #3c1053);
+    background-size: 400% 400%;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -141,6 +146,25 @@ a.pure-button-primary {
     top: 0;
     left: 0;
     position: fixed !important;
+}
+
+/* Css animation                                */
+
+ @-webkit-keyframes splashAnimate {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+@-moz-keyframes splashAnimate {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes splashAnimate {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
 }
 
 .splash {
@@ -223,7 +247,7 @@ a.pure-button-primary {
 /* This is the class used for the footer */
 .footer {
     background: #111;
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 100%;
 }
